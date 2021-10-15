@@ -5,7 +5,7 @@ for i in range(n):
         z = x // y
         print(z)
     except ZeroDivisionError as e:
-        print("bgh bhosdike!")
+        print("bgh!")
      except  ValueError as e:
         print("value error!")
 
